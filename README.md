@@ -1,6 +1,13 @@
-*AOEKEDEVOPS* (*Application Operations Engineer*, *Ke*ke, *DevOps*) Industrial Engineering Graduate.
+**AOEKEDEVOPS** (Application Operations Engineer, KEke, DevOps) Industrial Engineering Graduate.
 
 I am an experienced Application Operations Engineer and aspiring DevOps professional with a passion for building and maintaining reliable, scalable, and efficient software systems. I have a strong understanding of both application development and infrastructure operations, and I am skilled in using a variety of tools and technologies to automate and streamline the software delivery lifecycle.
+
+💯 Certified AWS Cloud Quest: Cloud Practitioner
+💯 ServiceNow IT Leadership Professional Certificate
+💯 Professional Google Data Analytics Certified
+💯 Project Management Essentials Certified
+💯 Scrum Foundation Professional Certified - SFPC™ (v2020)
+💯 HubSpot Revenue Operations (RevOps) Certified
 
 # Responsibilities
 
